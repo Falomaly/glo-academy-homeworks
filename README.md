@@ -2,9 +2,9 @@
 
 Ссылки на домашние задания:
 
-<a target="_blank" href="https://github.com/Falomaly/glo-academy-homeworks/tree/WlldBranch/Glo%20academy/first-lesson">Урок #2</a> - Вырезка графики из макета.
+<a target="_blank" href="https://github.com/Falomaly/glo-academy-homeworks/tree/WlldBranch/GLO-Academy/first-lesson">Урок #2</a> - Вырезка графики из макета.
 
-<a target="_blank" href="https://github.com/Falomaly/glo-academy-homeworks/tree/WlldBranch/Glo%20academy/second-lesson/Lesson-Project/src">Урок #3</a> - Создание директории проекта.
+<a target="_blank" href="https://github.com/Falomaly/glo-academy-homeworks/tree/WlldBranch/GLO-Academy/second-lesson">Урок #3</a> - Создание директории проекта.
 
 <a target="_blank" href="https://codepen.io/Falomaly/pen/xxJQZdj">Урок #4</a> - Книжка на HTML, поспешил и сделал сразу с CSS.
 
@@ -20,9 +20,9 @@
 
 <a target="_blank" href="https://disk.yandex.lv/d/fgbg0yufIlMnJA">Урок #9</a> - Макет из 7 урока на bootstrap, красивый и аккуратный + адаптив под разные мониторы.
 
-<a target="_blank" href="https://github.com/Falomaly/glo-academy-homeworks/blob/WlldBranch/Glo%20academy/lesson-ten/main.less">Урок #10</a> - Знакомство с LESS
+<a target="_blank" href="https://github.com/Falomaly/glo-academy-homeworks/blob/WlldBranch/GLO-Academy/lesson-ten/main.less">Урок #10</a> - Знакомство с LESS
 
-<a target="_blank" href="https://github.com/Falomaly/glo-academy-homeworks/tree/WlldBranch/Glo%20academy/lesson-eleven">Урок #11</a> - Знакомство со сниппетами.
+<a target="_blank" href="https://github.com/Falomaly/glo-academy-homeworks/tree/WlldBranch/GLO-Academy/lesson-eleven">Урок #11</a> - Знакомство со сниппетами.
 
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/">Урок #12</a> - Вот эта вот страница.
 
