@@ -1,0 +1,36 @@
+//Variables
+//Colors:
+@color-btn: #fbb303;
+@color-light-green: #6fc648;
+@color-dark-green: #286b0a;
+
+html {
+  font-size: 12px;
+  color: white;
+}
+
+header {
+  padding-top: 15px;
+  height: 700px;
+  width: 100%;
+}
+.header-button {
+  height: 50px;
+  border-radius: 8px;
+  background-color: @color-btn;
+  border-color: @color-btn;
+  font-size: 12px;
+   &:hover {
+     background-color: lighten(@color-btn, 10%);
+     border-color: @color-btn;
+  }
+}
+
+.phone-number {
+  font-size: 20px;
+}
+
+.section-one {
+  background-image: url(../img/section-one-bg.jpg);
+  background-repeat: no-repeat;
+}

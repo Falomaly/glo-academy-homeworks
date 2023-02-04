@@ -1,0 +1,27 @@
+html {
+  font-size: 12px;
+  color: white;
+}
+header {
+  padding-top: 15px;
+  height: 700px;
+  width: 100%;
+}
+.header-button {
+  height: 50px;
+  border-radius: 8px;
+  background-color: #fbb303;
+  border-color: #fbb303;
+  font-size: 12px;
+}
+.header-button:hover {
+  background-color: #fdc234;
+  border-color: #fbb303;
+}
+.phone-number {
+  font-size: 20px;
+}
+.section-one {
+  background-image: url(../img/section-one-bg.jpg);
+  background-repeat: no-repeat;
+}
