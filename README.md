@@ -26,7 +26,7 @@
 
 <a href="https://falomaly.github.io/glo-academy-homeworks/">Урок #12</a> - Вот эта вот страница.
 
-<a href="">Урок #13</a>
+<a href="https://github.com/Falomaly/glo-academy-homeworks/tree/WlldBranch/Glo%20academy/lesson-thirteen">Урок #13</a> - Вёрстка по Pixel Perfect
 
 <a href="">Урок #14</a>
 
