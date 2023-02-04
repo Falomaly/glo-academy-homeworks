@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice/.idea/practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice/.idea/watcherTasks.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="- Add whole dev files." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,8 +45,16 @@
       <option name="presentableId" value="Default" />
       <updated>1675517313870</updated>
       <workItem from="1675517314963" duration="352000" />
-      <workItem from="1675517691911" duration="60000" />
+      <workItem from="1675517691911" duration="515000" />
     </task>
+    <task id="LOCAL-00001" summary="- Add whole dev files.">
+      <created>1675517956583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675517956583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Add whole dev files." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Add whole dev files." />
   </component>
 </project>
