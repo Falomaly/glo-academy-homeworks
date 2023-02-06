@@ -28,7 +28,7 @@
 
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-thirteen/">Урок #13</a> - Вёрстка по Pixel Perfect
 
-<a target="_blank" href="">Урок #14</a>
+<a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #1</a> - Вёрстка шапки
 
 <a target="_blank" href="">Урок #15</a>
 
