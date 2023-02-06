@@ -1,25 +1,62 @@
+//Import fonts
+@font-face {
+  font-family: 'Proxima Nova Bold';
+  src: url('../fonts/ProximaNova-Bold.eot');
+  src: url('../fonts/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/ProximaNova-Bold.woff2') format('woff2'),
+  url('../fonts/ProximaNova-Bold.woff') format('woff'),
+  url('../fonts/ProximaNova-Bold.ttf') format('truetype'),
+  url('../fonts/ProximaNova-Bold.svg#ProximaNova-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima Nova Regular';
+  src: url('../fonts/ProximaNova-Regular.eot');
+  src: url('../fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/ProximaNova-Regular.woff2') format('woff2'),
+  url('../fonts/ProximaNova-Regular.woff') format('woff'),
+  url('../fonts/ProximaNova-Regular.ttf') format('truetype'),
+  url('../fonts/ProximaNova-Regular.svg#ProximaNova-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
 //Variables
 //Colors:
 @color-btn: #fbb303;
 @color-light-green: #6fc648;
 @color-dark-green: #286b0a;
 
+//Font families:
+.font-regular() {
+  font-family: 'Proxima Nova Regular', sans-serif;
+}
+.font-bold() {
+  font-family: 'Proxima Nova Bold', sans-serif;
+}
 html {
-  font-size: 12px;
+  .font-regular();
+  font-size: 10px;
   color: white;
 }
 
-header {
-  padding-top: 15px;
-  height: 700px;
-  width: 100%;
+h1 {
+  text-transform: uppercase;
+  .font-bold();
+  font-size: 2.4rem;
 }
+
 .header-button {
-  height: 50px;
-  border-radius: 8px;
+  height: 5rem;
+  border-radius: 0.8rem;
   background-color: @color-btn;
   border-color: @color-btn;
-  font-size: 12px;
+  font-size: 1.4rem;
    &:hover {
      background-color: lighten(@color-btn, 10%);
      border-color: @color-btn;
@@ -27,10 +64,78 @@ header {
 }
 
 .phone-number {
-  font-size: 20px;
+  font-size: 2rem;
+}
+
+.main-content {
+  margin-top: 9rem;
+  & h1 {
+    font-size: 4rem;
+    line-height: 1.5;
+  }
+  &-description {
+    margin-top: 3rem;
+    font-size: 2.4rem;
+  }
+
+  &-price {
+    display: inline-block;
+    width: auto;
+    background-color: @color-light-green;
+    color: white;
+    font-size: 1.8rem;
+    text-align: center;
+    padding: 3rem 4rem;
+    margin-top: 4rem;
+  }
+  &-pay {
+    font-size: 2.2rem !important;
+    margin-top: 3.7rem;
+  }
+
+  &-form {
+
+    &-title {
+      font-size: 1.8rem;
+      text-align: center;
+    }
+    &-label {
+      position: absolute;
+      display: block;
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: white;
+      text-align: center;
+      padding: 0.5rem;
+      z-index: 1;
+      font-size: 1.3rem;
+    }
+  }
 }
 
 .section-one {
-  background-image: url(../img/section-one-bg.jpg);
-  background-repeat: no-repeat;
+  padding-top: 1.5rem;
+  height: 70rem;
+  width: 100%;
+  background: #fff url(../img/section-one-bg.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+form {
+  background-color: white;
+  position: relative;
+  padding: 4rem;
+  display: block;
+  width: auto;
+  height: auto;
+  & input {
+    display: block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    border: 1px solid #dbdbdb;
+    border-radius: 6px;
+    height: 5.4rem;
+    width: 25.6rem;
+    margin-top: 2.5rem;
+  }
 }
