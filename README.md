@@ -30,6 +30,6 @@
 
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #1</a> - Вёрстка шапки
 
-<a target="_blank" href="">Урок #15</a>
+<a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-fourteen/">Урок #14</a> - Подключение шрифтов.
 
 <a target="_blank" href="">Урок #16</a>
