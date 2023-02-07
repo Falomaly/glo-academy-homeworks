@@ -24,14 +24,14 @@ h1 {
   font-family: 'Proxima Nova Bold', sans-serif;
   font-size: 2.4rem;
 }
-.header-button {
-  height: 5rem;
+.main-button-style {
+  padding: 1.5rem 0;
   border-radius: 0.8rem;
   background-color: #fbb303;
   border-color: #fbb303;
   font-size: 1.4rem;
 }
-.header-button:hover {
+.main-button-style:hover {
   background-color: #fdc234;
   border-color: #fbb303;
 }
@@ -48,6 +48,10 @@ h1 {
 .main-content-description {
   margin-top: 3rem;
   font-size: 2.4rem;
+}
+.main-content-note-under-form {
+  text-align: left;
+  margin-left: 3.1rem;
 }
 .main-content-price {
   display: inline-block;
@@ -67,7 +71,8 @@ h1 {
   font-size: 1.8rem;
   text-align: center;
 }
-.main-content-form-label {
+.main-content-form-label-name,
+.main-content-form-label-number {
   position: absolute;
   display: block;
   left: 50%;
@@ -79,6 +84,23 @@ h1 {
   z-index: 1;
   font-size: 1.3rem;
 }
+.main-content-form-label-number {
+  margin-top: 1rem;
+}
+.main-content-form-small {
+  text-align: center;
+  margin-top: 1rem;
+  padding-bottom: 4rem;
+  font-size: 1.2rem;
+}
+.main-content-form-button-style {
+  display: block;
+  text-align: center;
+  padding: 2rem 3rem;
+  vertical-align: center;
+  width: 25.7rem;
+  margin: 2.2rem auto 0 auto;
+}
 .section-one {
   padding-top: 1.5rem;
   height: 70rem;
@@ -87,9 +109,9 @@ h1 {
   background-size: cover;
 }
 form {
+  padding-top: 4rem;
   background-color: white;
   position: relative;
-  padding: 4rem;
   display: block;
   width: auto;
   height: auto;
