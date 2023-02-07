@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="- Finish practice task #2.">
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/__MACOSX/._index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/__MACOSX/css/._style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/__MACOSX/img/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/__MACOSX/img/._1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/__MACOSX/img/._2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/__MACOSX/img/._3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/__MACOSX/img/._4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-fiftheen/index.html" afterDir="false" />
+    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="- Task #15.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/less/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/less/main.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +67,7 @@
       <workItem from="1675673670662" duration="1508000" />
       <workItem from="1675675322437" duration="78000" />
       <workItem from="1675689755437" duration="5546000" />
-      <workItem from="1675758581146" duration="3626000" />
+      <workItem from="1675758581146" duration="6658000" />
     </task>
     <task id="LOCAL-00001" summary="- Add whole dev files.">
       <created>1675517956583</created>
@@ -121,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675760557901</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="- Task #15.">
+      <created>1675765996929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675765996929</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +142,7 @@
     <MESSAGE value="- Updated .gitignore.&#10;- Fix script in lesson #14." />
     <MESSAGE value="- Start new project part." />
     <MESSAGE value="- Finish practice task #2." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Finish practice task #2." />
+    <MESSAGE value="- Task #15." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Task #15." />
   </component>
 </project>

@@ -39,10 +39,25 @@
 .font-bold() {
   font-family: 'Proxima Nova Bold', sans-serif;
 }
+
+input, button, a {
+  outline: none;
+}
+
 html {
   .font-regular();
   font-size: 10px;
   color: white;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  transition-duration: 200ms;
+  &:hover {
+    color: #0d6efd;
+    transition-duration: 200ms;
+  }
 }
 
 h1 {
@@ -136,7 +151,6 @@ h1 {
 
 .section-one {
   padding-top: 1.5rem;
-  height: 70rem;
   width: 100%;
   background: #fff url(../img/section-one-bg.jpg) center center no-repeat;
   background-size: cover;
@@ -158,5 +172,46 @@ form {
     height: 5.4rem;
     width: 25.6rem;
     margin-top: 2.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .phone-number {
+    text-align: center;
+  }
+  .section-one {
+    background-position: top right;
+  }
+  .hopper-content {
+    text-align: center;
+  }
+  .main-content {
+    margin-top: 5rem;
+  }
+  .form-container {
+    margin-top: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .header-button {
+    margin-top: 2rem;
+  }
+}
+
+@media (max-width: 766px) {
+  .header-button {
+    margin-top: 2rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .phone-number {
+    margin-top: 1.5rem;
+  }
+  .header-button {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
   }
 }
