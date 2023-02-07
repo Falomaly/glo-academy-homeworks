@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="- Task #15.">
+    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="- Practice #3.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/less/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/less/main.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +65,8 @@
       <workItem from="1675673670662" duration="1508000" />
       <workItem from="1675675322437" duration="78000" />
       <workItem from="1675689755437" duration="5546000" />
-      <workItem from="1675758581146" duration="6658000" />
+      <workItem from="1675758581146" duration="7058000" />
+      <workItem from="1675774953354" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="- Add whole dev files.">
       <created>1675517956583</created>
@@ -118,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675765996929</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="- Practice #3.">
+      <created>1675770031496</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675770031496</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +149,7 @@
     <MESSAGE value="- Start new project part." />
     <MESSAGE value="- Finish practice task #2." />
     <MESSAGE value="- Task #15." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Task #15." />
+    <MESSAGE value="- Practice #3." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Practice #3." />
   </component>
 </project>

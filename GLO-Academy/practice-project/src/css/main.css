@@ -17,7 +17,7 @@
 input,
 button,
 a {
-  outline: none;
+  outline-color: transparent;
 }
 html {
   font-family: 'Proxima Nova Regular', sans-serif;
