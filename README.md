@@ -36,4 +36,6 @@
 
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-fiftheen/">Урок #15</a> - Псевдокласс :hover.
 
+<a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #3</a> - Эффекты при наведении и адаптив.
+
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-sixteen/">Урок #16</a> - Слайдеры.
