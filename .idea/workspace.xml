@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="- Lesson #16.&#10;- Again update .gitignore.">
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/coin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/folder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/left-arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/piggy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/right-arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/CONTRIBUTING.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/README.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick.jquery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/slick-slider/slick/slick.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/less/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/less/main.less" afterDir="false" />
-    </list>
+    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="- Added slick slider block.&#10;- Second block completed." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -106,7 +70,7 @@
       <workItem from="1675774953354" duration="59000" />
       <workItem from="1675850335673" duration="929000" />
       <workItem from="1676541298942" duration="845000" />
-      <workItem from="1676545018408" duration="5554000" />
+      <workItem from="1676545018408" duration="5861000" />
     </task>
     <task id="LOCAL-00001" summary="- Add whole dev files.">
       <created>1675517956583</created>
@@ -178,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675851156614</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="- Added slick slider block.&#10;- Second block completed.">
+      <created>1676550644357</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676550644357</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +180,7 @@
     <MESSAGE value="- Practice #3." />
     <MESSAGE value="- Use outline-color:transparent instead of outline:none." />
     <MESSAGE value="- Lesson #16.&#10;- Again update .gitignore." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Lesson #16.&#10;- Again update .gitignore." />
+    <MESSAGE value="- Added slick slider block.&#10;- Second block completed." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Added slick slider block.&#10;- Second block completed." />
   </component>
 </project>

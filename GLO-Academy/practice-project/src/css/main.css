@@ -136,6 +136,7 @@ form {
   height: auto;
 }
 form input {
+  outline: unset;
   display: block;
   margin-left: 50%;
   -webkit-transform: translateX(-50%);
