@@ -147,6 +147,10 @@ form input {
   width: 25.6rem;
   margin-top: 2.5rem;
 }
+form input:focus {
+  border: 1px solid #dbdbdb;
+  outline: 1px solid #dbdbdb;
+}
 .features {
   margin-top: 10rem;
 }
