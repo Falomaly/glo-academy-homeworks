@@ -39,3 +39,5 @@
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #3</a> - Эффекты при наведении и адаптив.
 
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-sixteen/">Урок #16</a> - Слайдеры.
+
+<a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #4</a> - Блок со слайдерами.
