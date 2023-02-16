@@ -14,6 +14,10 @@
   font-style: normal;
   font-display: swap;
 }
+.txt-link {
+  color: #00a300;
+  text-decoration: underline;
+}
 input,
 button,
 a {
@@ -141,6 +145,56 @@ form input {
   height: 5.4rem;
   width: 25.6rem;
   margin-top: 2.5rem;
+}
+.features {
+  margin-top: 10rem;
+}
+.features-block {
+  text-align: center;
+}
+.features-block h3 {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 3.5rem;
+}
+.features-block p {
+  font-size: 1.6rem;
+  padding: 0 1.7rem;
+}
+.features-img {
+  height: 7rem;
+  margin-bottom: 6.4rem;
+}
+.features-img img {
+  display: block;
+  margin: 0 auto;
+}
+.benefits-title {
+  font-size: 3.6rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 13rem;
+}
+.arrow {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  z-index: 999;
+  width: 2rem;
+  height: 2rem;
+  border: none;
+  opacity: 0.3;
+}
+.prev {
+  background: url(../img/left-arrow.svg) center no-repeat;
+  left: 0;
+  background-size: 70%;
+}
+.next {
+  background: url(../img/right-arrow.svg) center no-repeat;
+  right: 0;
+  background-size: 70%;
 }
 @media (max-width: 991px) {
   .phone-number {

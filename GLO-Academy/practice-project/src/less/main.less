@@ -32,6 +32,12 @@
 @color-light-green: #6fc648;
 @color-dark-green: #286b0a;
 
+//Txt link style
+.txt-link {
+  color: #00a300;
+  text-decoration: underline;
+}
+
 //Font families:
 .font-regular() {
   font-family: 'Proxima Nova Regular', sans-serif;
@@ -175,6 +181,62 @@ form {
   }
 }
 
+//Slider with benefits
+.features {
+  margin-top: 10rem;
+  &-block {
+    text-align: center;
+    h3 {
+      font-weight: bold;
+      font-size: 2rem;
+      margin-bottom: 3.5rem;
+    }
+    p {
+      font-size: 1.6rem;
+      padding: 0 1.7rem;
+    }
+  }
+  &-img{
+    height: 7rem;
+    margin-bottom: 6.4rem;
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+
+  }
+}
+.benefits-title {
+  font-size: 3.6rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 13rem;
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 999;
+  width: 2rem;
+  height: 2rem;
+  border: none;
+  opacity: 0.3;
+}
+
+.prev {
+  background: url(../img/left-arrow.svg) center no-repeat;
+  left: 0;
+  background-size: 70%;
+}
+
+.next {
+  background: url(../img/right-arrow.svg) center no-repeat;
+  right: 0;
+  background-size: 70%;
+}
+
+//Media imports =====================
 @media (max-width: 991px) {
   .phone-number {
     text-align: center;
