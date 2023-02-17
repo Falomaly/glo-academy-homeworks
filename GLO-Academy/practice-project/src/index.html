@@ -12,8 +12,6 @@
 </head>
 <body>
     <main>
-
-
         <div class="section-one">
             <div class="container">
                 <header>
@@ -22,7 +20,7 @@
                         <div class="logo col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xs-12"><img src="img/logo.png" alt="logo"></div>
 
                         <a href="#" class="phone-number fw-bold col-xxl-2 offset-xxl-4 col-xl-2 offset-xl-4 col-lg-4 offset-lg-2 col-md-6 offset-md-0 col-sm-6 col-xs-12">+7 495 771 05 08</a>
-                        <button class="btn header-button btn-primary main-button-style text-uppercase fw-bold col-xxl-3 col-xl-3 col-lg-3 offset-lg-0 col-md-6 offset-md-3 col-sm-8 offset-sm-2 col-xs-12">Получить консультацию</button>
+                        <button class="btn-get-consulting btn header-button btn-primary main-button-style text-uppercase fw-bold col-xxl-3 col-xl-3 col-lg-3 offset-lg-0 col-md-6 offset-md-3 col-sm-8 offset-sm-2 col-xs-12">Получить консультацию</button>
 
                     </div>
                 </header>
@@ -57,7 +55,6 @@
                 </div>
             </div>
         </div>
-
     </main>
 
     <section class="features">
@@ -108,9 +105,32 @@
                     </p>
                 </div>
 
+            </div><!-- Slider DIV -->
+        </div><!-- Container DIV -->
+    </section>
+
+    <section class="popup-section">
+        <div class="popup">
+<!--            Popup consulting-->
+            <div class="popup-consulting">
+                <div class="popup-consulting-content">
+                    <h4>Заинтересовало?</h4>
+                    <p>Оставьте контактные данные для связи</p>
+                    <form action="#" class="popup-consulting-form">
+                        <label class="main-content-form-label-name">Ваше имя</label>
+                        <input type="text">
+                        <label class="main-content-form-label-number">Номер телефона</label>
+                        <input type="text">
+                        <label class="main-content-form-label-message">Сообщение</label>
+                        <textarea id="" cols="30" rows="10"></textarea>
+                        <button class="btn btn-primary main-content-form-button-style main-button-style text-uppercase fw-bold d-block">ОСТАВЬТЕ ЗАЯВКУ</button>
+                    </form>
+                    <button class="popup-close-btn">&times;</button>
+                </div>
             </div>
         </div>
     </section>
+
 <!--    Connect JQuery library-->
     <script src="jquery.js"></script>
 <!--Slick slider styles connection-->
@@ -120,7 +140,21 @@
     <script src="slick-slider/slick/slick.min.js"></script>
 <!--Slick slider init-->
     <script>
+
+
         $(document).ready(function(){
+            <!--Get consulting popup logic-->
+            $('.btn-get-consulting').on('click', function (e) {
+                e.preventDefault();
+                $('.popup').fadeIn();
+                $('.popup-consulting').fadeIn();
+            });
+
+            $('.popup-close-btn').on('click', function (e) {
+                $('.popup').fadeOut();
+            });
+
+            <!--        Slider script logic-->
             $('.features-slider').slick({
                 infinite: true,
                 slidesToShow: 4,
