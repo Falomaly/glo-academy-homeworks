@@ -49,3 +49,5 @@
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-eighteen/">Урок #18</a> - Аккордеон.
 
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-eighteen-2/">Урок #18.2</a> - Поле регистрации на табах.
+
+<a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #6</a> - Практика вёрстки сеткой.
