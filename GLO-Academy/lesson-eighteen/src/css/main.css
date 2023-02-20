@@ -1,0 +1,50 @@
+
+body {
+    background: url("../img/bg.png") repeat;
+    background-size: cover;
+}
+
+.accordion-button::after {
+    background: none !important;
+}
+
+h1 {
+    font-size: 36px;
+}
+h1, h2 {
+    text-align: center;
+
+    color: #00bbf2;
+}
+h2 {
+    margin-bottom: 50px;
+    font-size: 24px;
+}
+
+button {
+    font-size: 23px !important;
+    color: white !important;
+    background-color: #00baf0 !important;
+}
+.container {
+    margin-top: 150px;
+}
+
+.accordion-body {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    border: 2px solid #dbdbdb;
+    border-radius: 0 0 5px 5px;
+    width: calc(100% - 10px);
+    background-color: white;
+}
+
+.accordion-item {
+    background-color: transparent !important;
+    border: none;
+}
+
+.accordion-button {
+    border-radius: 0 !important;
+    margin-bottom: 4px;
+}
