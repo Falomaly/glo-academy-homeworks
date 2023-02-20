@@ -43,3 +43,5 @@
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #4</a> - Блок со слайдерами.
 
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-seventeen/src/">Урок #17</a> - Модальные окна.
+
+<a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #5</a> - Модальное окно.
