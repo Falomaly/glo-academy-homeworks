@@ -269,6 +269,100 @@ form textarea {
 .popup-consulting-form label[class="main-content-form-label-name"] {
   margin-top: 1rem;
 }
+.prices {
+  background: #286b0a url("../img/price-plans-section/section-bg.png") center;
+  margin-top: 12rem;
+  text-align: center;
+}
+.texts {
+  margin-top: 12rem;
+}
+.price-header {
+  color: white;
+  font-family: 'Proxima Nova Bold', sans-serif;
+  font-size: 3.6rem;
+}
+.price-title {
+  font-size: 1.8rem;
+  color: white;
+  margin-top: 5.3rem;
+  margin-bottom: 9.3rem;
+}
+.price-btn-style {
+  font-weight: bold;
+  padding: 2rem 3rem;
+}
+.price-btn-block {
+  margin-top: 12rem;
+}
+.price-plan-order-btn {
+  padding: 2rem 6rem;
+  font-family: 'Proxima Nova Bold', sans-serif;
+  font-size: 1.8rem;
+  margin-bottom: 5rem;
+}
+.price-plan-block {
+  background-color: white;
+  max-width: 40rem;
+  margin-left: 4rem;
+  margin-bottom: 12rem;
+  -webkit-filter: drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3));
+          filter: drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3));
+}
+.price-plan-block h2 {
+  margin: 5rem 0 4rem 0;
+  font-family: 'Proxima Nova Bold', sans-serif;
+}
+.price-plan-block img {
+  margin-bottom: 3.6rem;
+}
+.price-plan-block h4 {
+  font-family: 'Proxima Nova Bold', sans-serif;
+  margin-bottom: 3.8rem;
+}
+.price-plan-block h4 span {
+  font-size: 2.2rem;
+}
+.price-plan-block ul {
+  min-height: 18rem;
+}
+.price-plan-block ul li {
+  list-style: none;
+  font-size: 1.8rem;
+  font-family: 'Proxima Nova Regular', sans-serif;
+}
+.price-plan-block ul li:before {
+  content: '';
+  height: 1.4rem;
+  width: 1.4rem;
+  display: inline-block;
+  margin-right: 1rem;
+  vertical-align: middle;
+  background: url("../img/price-plans-section/checkmark.svg") no-repeat center;
+  background-size: 100%;
+}
+@media (min-width: 1201px) {
+  .price-plan-block {
+    margin: 0 0 5rem 0;
+    max-width: unset;
+  }
+  .price-btn-block {
+    margin-top: 0;
+    margin-bottom: 8rem;
+    max-width: unset;
+  }
+}
+@media (max-width: 1200px) {
+  .price-plan-block {
+    margin: 0 0 5rem 0;
+    max-width: unset;
+  }
+  .price-btn-block {
+    margin-top: 0;
+    margin-bottom: 8rem;
+    max-width: unset;
+  }
+}
 @media (max-width: 991px) {
   .phone-number {
     text-align: center;
@@ -285,18 +379,44 @@ form textarea {
   .form-container {
     margin-top: 2rem;
   }
-}
-@media (max-width: 991px) {
   .header-button {
     margin-top: 2rem;
+  }
+  .price-plan-block {
+    margin: 0 0 5rem 0;
+    max-width: unset;
+  }
+  .price-btn-block {
+    margin-top: 0;
+    margin-bottom: 10rem;
+    max-width: unset;
   }
 }
 @media (max-width: 766px) {
   .header-button {
     margin-top: 2rem;
   }
+  .price-plan-block {
+    margin: 0 0 5rem 0;
+    width: 100%;
+    max-width: unset;
+  }
+  .price-btn-block {
+    margin-top: 0;
+    margin-bottom: 10rem;
+    max-width: unset;
+  }
 }
 @media (max-width: 575px) {
+  .price-plan-block {
+    margin: 0 0 5rem 0;
+    width: 100%;
+    max-width: unset;
+  }
+  .price-btn-block {
+    margin-top: 0;
+    margin-bottom: 10rem;
+  }
   .phone-number {
     margin-top: 1.5rem;
   }
@@ -305,5 +425,9 @@ form textarea {
     display: inline-block;
     text-align: center;
     width: 100%;
+  }
+  .btn-get-consulting {
+    width: 100%;
+    min-width: 30rem;
   }
 }
