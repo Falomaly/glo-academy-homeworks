@@ -66,7 +66,7 @@ input {
     width: 80%;
     padding: 15px;
     border-radius: 5px;
-    margin: 30px auto;
+    margin: 10px auto;
 }
 
 .check {
@@ -78,14 +78,16 @@ input {
     width: 20px;
 }
 
-p {
+a {
     display: block;
     color: red;
     font-size: 15px;
     margin: 22px 0 0 90px;
+    padding: 0;
 }
 form {
     margin-top: 70px;
+    overflow: hidden;
 }
 
 .login-btn {
