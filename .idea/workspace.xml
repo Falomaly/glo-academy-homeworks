@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="- Added wow.js library.&#10;- Task #19 completed." />
+    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="- Fixing path to wow.js again! ;/">
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/hand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/left-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/img/feedback/right-arrow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/less/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/less/main.less" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,27 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "E:/Koala-compiler/Koala.exe",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Koala-compiler/Koala.exe&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,6 +92,11 @@
       <workItem from="1676867813800" duration="9078000" />
       <workItem from="1676886560983" duration="8211000" />
       <workItem from="1677046848404" duration="2461000" />
+      <workItem from="1677049811312" duration="369000" />
+      <workItem from="1677243147066" duration="1715000" />
+      <workItem from="1677244876312" duration="464000" />
+      <workItem from="1677245350051" duration="4505000" />
+      <workItem from="1677684192468" duration="3461000" />
     </task>
     <task id="LOCAL-00001" summary="- Add whole dev files.">
       <created>1675517956583</created>
@@ -210,7 +231,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677049006238</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="- Fixing path to wow.js!">
+      <created>1677049840763</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1677049840763</updated>
+    </task>
+    <task id="LOCAL-00021" summary="- Fixing path to wow.js again! ;/">
+      <created>1677050074395</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1677050074396</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +285,8 @@
     <MESSAGE value="- Lesson #18/2 completed!" />
     <MESSAGE value="- Practice task completed." />
     <MESSAGE value="- Added wow.js library.&#10;- Task #19 completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Added wow.js library.&#10;- Task #19 completed." />
+    <MESSAGE value="- Fixing path to wow.js!" />
+    <MESSAGE value="- Fixing path to wow.js again! ;/" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Fixing path to wow.js again! ;/" />
   </component>
 </project>

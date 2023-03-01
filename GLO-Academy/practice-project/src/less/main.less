@@ -386,6 +386,113 @@ form {
   }
 }
 
+//Feedback section.
+.feedback {
+  background: white url("../img/feedback/bg.png") no-repeat;
+  background-size: cover;
+  &-arrow-prev {
+    background: #00be00 url("../img/feedback/left-arrow.svg") no-repeat center;
+    padding: 3rem 2.5rem;
+    border: none;
+    outline: none;
+    transform: translateY(50%);
+  }
+  &-arrow-next {
+    background: #00be00 url("../img/feedback/right-arrow.svg") no-repeat center;
+    padding: 3rem 2.5rem;
+    border: none;
+    outline: none;
+  }
+  &-input {
+    transform: none;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    margin: 0;
+    &-number {
+      margin-left: 3rem;
+      &-title {
+        transform: translateY(-50%) translateX(70%) !important;
+      }
+    }
+    &-name {
+      &-title {
+        transform: translateY(-50%) translateX(100%) !important;
+      }
+    }
+    &-label {
+      position: absolute;
+      background-color: white;
+      z-index: 5;
+      font-size: 1.3rem;
+      padding: 0 1.3rem;
+    }
+  }
+  &-contact {
+    &-block {
+      display: inline-block;
+      margin: 6rem auto 10rem 25%;
+      background-color: white;
+      text-align: center;
+      padding: 5rem 7rem;
+    }
+    &-title {
+      margin-bottom: 5rem;
+      font-size: 2.2rem;
+      .font-bold();
+      text-align: center;
+    }
+  }
+  &-title {
+    .font-bold();
+    font-size: 3.6rem;
+    text-align: center;
+    margin-top: 11.4rem;
+  }
+}
+
+.fotorama {
+  display: inline-block;
+  & img {
+    width: 512px;
+    height: 312px;
+  }
+}
+
+.info-block {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 0 0 4rem;
+  & p {
+    font-size: 1.6rem;
+  }
+}
+.customer-block {
+  margin-top: 5rem;
+  & img {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    float: left;
+  }
+  &-txt {
+    vertical-align: middle;
+    margin-left: 2rem;
+    display: inline-block;
+  }
+  &-description {
+    padding: 2.2rem;
+    width: 512px;
+  }
+}
+.slider {
+  background-color: white;
+  filter: drop-shadow(3px 4px 7px rgba(0, 0, 0, 0.2));
+  margin-top: 10rem;
+  &-item {
+    margin: 5.6rem 0 6rem 6rem;
+  }
+}
 //Media imports =====================
 //xxl+ devices
 @media (min-width: 1201px) {
