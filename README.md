@@ -55,3 +55,5 @@
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-eighteen-2/">Урок #19</a> - Анимация поля регистрации из урока #18.
 
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #7</a> - Верстка слайдера в слайдере.
+
+<a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-twenty/src/">Урок #20</a> - Видео фон использя бибилотеку vide.js.
