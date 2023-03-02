@@ -53,3 +53,5 @@
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #6</a> - Практика вёрстки сеткой.
 
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-eighteen-2/">Урок #19</a> - Анимация поля регистрации из урока #18.
+
+<a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #7</a> - Верстка слайдера в слайдере.
