@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+section {
+    min-height: 100vh;
+    top: 0;
+    left: 0;
+}
+p {
+    text-align: center;
+    font-size: 48px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    padding-top: 50vh;
+    color: white;
+    filter: drop-shadow(0 0 10px black);
+}

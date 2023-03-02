@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="- New progress in practice project.">
+    <list default="true" id="9048a52d-9bc0-48ee-b852-c416c4e3e2b6" name="Changes" comment="Finish practice task #7.">
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-twenty/src/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-twenty/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-twenty/src/js/jquery.vide.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-twenty/src/video/wall-flip.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-twenty/src/video/wall-flip.ogv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-twenty/src/video/wall-flip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLO-Academy/lesson-twenty/src/video/wall-flip.webm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GLO-Academy/practice-project/src/less/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/GLO-Academy/practice-project/src/less/main.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -36,27 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Koala-compiler/Koala.exe&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "E:/Koala-compiler/Koala.exe",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,7 +90,7 @@
       <workItem from="1677244876312" duration="464000" />
       <workItem from="1677245350051" duration="4505000" />
       <workItem from="1677684192468" duration="3694000" />
-      <workItem from="1677739895016" duration="1283000" />
+      <workItem from="1677739895016" duration="3671000" />
     </task>
     <task id="LOCAL-00001" summary="- Add whole dev files.">
       <created>1675517956583</created>
@@ -242,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677687887508</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Finish practice task #7.">
+      <created>1677745152044</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1677745152044</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +296,7 @@
     <MESSAGE value="- Fixing path to wow.js!" />
     <MESSAGE value="- Fixing path to wow.js again! ;/" />
     <MESSAGE value="- New progress in practice project." />
-    <option name="LAST_COMMIT_MESSAGE" value="- New progress in practice project." />
+    <MESSAGE value="Finish practice task #7." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish practice task #7." />
   </component>
 </project>
