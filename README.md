@@ -57,3 +57,7 @@
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #7</a> - Верстка слайдера в слайдере.
 
 <a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-twenty/src/">Урок #20</a> - Видео фон использя бибилотеку vide.js.
+
+<a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/practice-project/src/">Практика #8</a> - Верстка слайдера в слайдере финал.
+
+<a target="_blank" href="https://falomaly.github.io/glo-academy-homeworks/GLO-Academy/lesson-twentyone/">Урок #21</a> - Parallax эффект на сайте.
