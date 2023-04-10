@@ -458,7 +458,7 @@ form textarea {
   width: 3rem;
   height: 3rem;
 }
-.slider {
+.feedback-slider {
   background-color: white;
   -webkit-filter: drop-shadow(3px 4px 7px rgba(0, 0, 0, 0.2));
           filter: drop-shadow(3px 4px 7px rgba(0, 0, 0, 0.2));

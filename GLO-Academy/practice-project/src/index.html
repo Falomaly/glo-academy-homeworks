@@ -210,9 +210,9 @@
                 <h2 class="feedback-title">Отзывы</h2>
             </div>
             
-            <div class="row">
+            <div class="row col-xs-12 col-sm-12">
                 <div class="slider-container">
-                    <div class="slider">
+                    <div class="feedback-slider">
                         <div class="slider-item">
 
                             <div class="fotorama" data-nav="thumbs" data-loop="true">
@@ -369,7 +369,7 @@
                 $('.popup').fadeOut();
             });
 
-            <!--       benefits Slider script logic-->
+            //benefits Slider script logic
             $('.features-slider').slick({
                 infinite: true,
                 slidesToShow: 4,
@@ -397,8 +397,8 @@
             });
 
         //    Feedback slider
-            <!--        Slider script logic-->
-            $('.slider').slick({
+            //Slider script logic
+            $('.feedback-slider').slick({
                 infinite: true,
                 slidesToShow: 1,
                 slidesToScroll: 1,
@@ -415,7 +415,7 @@
                         }
                     },
                     {
-                        breakpoint: 767,
+                        breakpoint: 400,
                         settings: {
                             slidesToShow: 1,
                             prevArrow: '<button class="feedback-arrow-prev"></button>',
